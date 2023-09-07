@@ -1,3 +1,3 @@
-function getSkills (member) {
+function skillsMember(member) {
   return member.skills
 }
